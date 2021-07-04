@@ -10,6 +10,7 @@ Projeto consiste em uma página de e-commerce de um salão de beleza, usando os 
 - [RandomUser](https://randomuser.me/)
 - [ScroolRevealJs](https://scrollrevealjs.org/)
 - [Swipper](https://swiperjs.com/)
+- [IcoMoon](https://icomoon.io/)
 
 ##
 
